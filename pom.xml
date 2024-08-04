@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ar.edu.utn.frc.tup.lciii</groupId>
-	<artifactId>Application</artifactId>
+	<artifactId>Guess-Number</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Application</name>
+	<name>Guess-Number</name>
 	<description>Template SpringBoot</description>
 	<url/>
 	<licenses>
